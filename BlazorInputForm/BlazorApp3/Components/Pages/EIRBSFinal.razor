@@ -1,0 +1,136 @@
+﻿@page "/EIRBSFinal"
+@rendermode InteractiveServer
+
+<h3>EIRBSFinal</h3>
+
+<div class="container">
+    <h2>Installation</h2>
+
+    <!-- First Row -->
+    <div class="row g-3 my-3">
+        <div class="col-3 box">
+            <div class="row g-2 align-items-center">
+                <div class="col-auto">
+                    <label for="CustomerID" class="col-form-label">Customer ID</label>
+                </div>
+                <div class="col-auto">
+                    <input type="email" class="form-control border-primary" id="CustomerID" placeholder="" style="width: 120px; height: 30px;">
+                </div>
+            </div>
+        </div>
+        <div class="col-5 box">
+            <div class="row g-2 align-items-center">
+                <div class="col-auto">
+                    <label for="Ref" class="col-form-label">Ref. (If any)</label>
+                </div>
+                <div class="col-auto">
+                    <input type="email" class="form-control border-primary" id="Ref" placeholder="" style="width: 300px; height: 30px;">
+                </div>
+            </div>
+        </div>
+        <div class="col-4 box">
+            <div class="row g-2 align-items-center">
+                <div class="col-auto">
+                    <label for="InstallationNo" class="col-form-label">Installation No</label>
+                </div>
+                <div class="col-auto">
+                    <input type="email" class="form-control border-primary" id="InstallationNo" placeholder="(Primary Job No)" style="width: 200px; height: 30px;">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Second Row -->
+    <div class="row g-3 my-3">
+        <div class="col-4 box">
+            <label for="inputName" class="form-label">Customer Name</label>
+            <input type="text" class="form-control border-primary mb-2" id="inputName" style="width: 200px; height: 30px;">
+            <label for="inputEmail" class="form-label">Address</label>
+            <input type="email" class="form-control border-primary mb-2" id="inputEmail" style="width: 200px; height: 60px;">
+            <label for="machineDropdown" class="form-label">Machine/Modality</label>
+            <select class="form-select border-primary mb-2" id="machineDropdown" style="width: 200px; height: 35px;">
+                <option selected disabled>Select an option</option>
+                <option value="1">Option 1</option>
+                <option value="2">Option 2</option>
+                <option value="3">Option 3</option>
+            </select>
+            <label for="otherOptionsDropdown" class="form-label">Other Options</label>
+            <select class="form-select border-primary" id="otherOptionsDropdown" style="width: 200px; height: 35px;">
+                <option selected disabled>Select an option</option>
+                <option value="1">Option 1</option>
+                <option value="2">Option 2</option>
+                <option value="3">Option 3</option>
+            </select>
+        </div>
+        <div class="col-4 box">
+            <label for="division" class="form-label">Division</label>
+            <input type="text" class="form-control border-primary mb-2" id="division" style="width: 200px; height: 30px;">
+            <label for="district" class="form-label">District</label>
+            <input type="text" class="form-control border-primary mb-2" id="district" style="width: 200px; height: 30px;">
+            <label for="branchID" class="form-label">Branch ID</label>
+            <input type="text" class="form-control border-primary mb-2" id="branchID" style="width: 200px; height: 30px;">
+            <label for="modelNo" class="form-label">Model No</label>
+            <input type="text" class="form-control border-primary mb-2" id="modelNo" style="width: 200px; height: 30px;">
+            <label for="serialNo" class="form-label">Serial No</label>
+            <input type="text" class="form-control border-primary mb-2" id="serialNo" style="width: 200px; height: 30px;">
+            <label for="conditionDropdown" class="form-label">Condition</label>
+            <select class="form-select border-primary mb-2" id="conditionDropdown" style="width: 200px; height: 35px;">
+                <option selected disabled>Select an option</option>
+                <option value="1">Option 1</option>
+                <option value="2">Option 2</option>
+                <option value="3">Option 3</option>
+            </select>
+            <label for="periodDropdown" class="form-label">Period</label>
+            <select class="form-select border-primary" id="periodDropdown" style="width: 200px; height: 35px;">
+                <option selected disabled>Select an option</option>
+                <option value="1">Option 1</option>
+                <option value="2">Option 2</option>
+                <option value="3">Option 3</option>
+            </select>
+        </div>
+        <div class="col-4 box">
+            <label for="installationDate" class="form-label">Installation Date</label>
+            <input type="date" class="form-control border-primary mb-2" id="installationDate" style="width: 200px; height: 35px;">
+            <label for="brandNameDropdown" class="form-label">Brand Name</label>
+            <select class="form-select border-primary mb-2" id="brandNameDropdown" style="width: 200px; height: 35px;">
+                <option selected disabled>Select an option</option>
+                <option value="1">Option 1</option>
+                <option value="2">Option 2</option>
+                <option value="3">Option 3</option>
+            </select>
+            <label for="engineerDropdown" class="form-label">Engineer</label>
+            <select class="form-select border-primary" id="engineerDropdown" style="width: 200px; height: 35px;">
+                <option selected disabled>Select an option</option>
+                <option value="1">Option 1</option>
+                <option value="2">Option 2</option>
+                <option value="3">Option 3</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- Final Row -->
+    <div class="row g-3 my-3">
+        <div class="col-6 box">
+        </div>
+        <div class="col-6 box">
+            <label for="maintenanceSchedule" class="form-label">Maintenance Schedule</label>
+            <textarea class="form-control border-primary" id="maintenanceSchedule" rows="3" style="width: 500px;"></textarea>
+            <label for="serviceNo" class="form-label">Service No</label>
+            <input type="text" class="form-control border-primary" id="serviceNo" style="width: 200px; height: 30px;">
+        </div>
+    </div>
+
+    <!-- Job Details -->
+    <div class="row g-3 my-3">
+        <div class="col-12 box">
+            <label for="jobDetails" class="form-label">Job Details</label>
+            <textarea class="form-control border-primary mb-2" id="jobDetails" rows="3" style="width: 100%;"></textarea>
+            <label for="remarks" class="form-label">Remarks</label>
+            <input type="text" class="form-control border-primary" id="remarks" style="width: 100%;">
+        </div>
+    </div>
+</div>
+
+@code {
+
+}

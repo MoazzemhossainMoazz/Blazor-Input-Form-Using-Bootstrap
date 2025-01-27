@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\BlazorApp3\\BlazorApp3\\BlazorApp3.csproj": {}
+    "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\BlazorApp3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\BlazorApp3\\BlazorApp3\\BlazorApp3.csproj": {
+    "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\BlazorApp3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\BlazorApp3\\BlazorApp3\\BlazorApp3.csproj",
+        "projectUniqueName": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\BlazorApp3.csproj",
         "projectName": "BlazorApp3",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\BlazorApp3\\BlazorApp3\\BlazorApp3.csproj",
+        "projectPath": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\BlazorApp3.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\BlazorApp3\\BlazorApp3\\obj\\",
+        "outputPath": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

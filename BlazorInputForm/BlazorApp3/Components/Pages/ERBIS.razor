@@ -1,0 +1,200 @@
+﻿@page "/ERBIS"
+@rendermode InteractiveServer
+
+<h3>ERBIS</h3>
+
+
+  <div>
+        <h2>Installation</h2>
+
+        <div class="row m-3">
+            <div class="col-3 box">
+                <div class="row g-2 align-items-center">
+
+                    <div class="col-auto">
+                      <label for="CustomerID" class="col-form-label">Customer ID</label>
+                    </div>
+
+                    <div class="col-auto">
+                      <input type="email" class="form-control border-primary" style="width: 120px; height: 30px;" id="CustomerID" placeholder="">
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-5 box">
+                <div class="row g-2 align-items-center">
+                    <div class="col-auto">
+                        <label for="Ref" class="col-form-label">Ref. (If any)</label>
+                      </div>
+  
+                      <div class="col-auto">
+                        <input type="email" class="form-control border-primary" style="width: 300px; height: 30px;" id="Ref" placeholder="">
+                      </div>
+                </div>
+            </div>
+            
+            <div class="col-4 box">
+                <div class="row g-2 align-items-center">
+                    <div class="col-auto">
+                        <label for="InstallationNo" class="col-form-label">Installation No</label>
+                      </div>
+  
+                      <div class="col-auto">
+                        <input type="email" class="form-control border-primary" style="width: 200px; height: 30px;" id="InstallationNo" placeholder="(Primary Job No)">
+                      </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="row m-3">
+            <div class="col-4 box">
+                <tbody>
+                    <tr>
+                      <td><label for="inputName" class="form-label">Customer Name</label></td>
+                      <td><input type="text" class="form-control border-primary" style="width: 200px; height: 30px;" id="inputName" placeholder=""></td>
+                    </tr>
+                    <tr>
+                      <td><label for="inputEmail" class="form-label">Address</label></td>
+                      <td><input type="email" class="form-control border-primary" style="width: 200px; height: 60px;" id="inputEmail" placeholder=""></td>
+                    </tr>
+                    <tr>
+                        <label for="dropdownInput" class="form-label">Machine/Modality</label>
+                        <select class="form-select border-primary" style="width: 200px; height: 35px;" id="dropdownInput">
+                        <option selected disabled>Select an option</option>
+                        <option value="1">Option 1</option>
+                        <option value="2">Option 2</option>
+                        <option value="3">Option 3</option>
+                        </select>
+                    </tr>
+                    <tr>
+                        <label for="dropdownInput" class="form-label">Other Options</label>
+                        <select class="form-select border-primary" style="width: 200px; height: 35px;" id="dropdownInput">
+                        <option selected disabled>Select an option</option>
+                        <option value="1">Option 1</option>
+                        <option value="2">Option 2</option>
+                        <option value="3">Option 3</option>
+                        </select>
+                    </tr>
+                  </tbody>
+            </div>
+
+            <div class="col-4 box">
+                <tbody>
+                    <tr>
+                      <td><label for="inputName" class="form-label">Division</label></td>
+                      <td><input type="text" class="form-control border-primary" style="width: 200px; height: 30px;" id="inputName" placeholder=""></td>
+                    </tr>
+                    <tr>
+                      <td><label for="inputEmail" class="form-label">District</label></td>
+                      <td><input type="email" class="form-control border-primary" style="width: 200px; height: 30px;" id="inputEmail" placeholder=""></td>
+                    </tr>
+                    <tr>
+                      <td><label for="inputPhone" class="form-label">Branch ID </label></td>
+                      <td><input type="tel" class="form-control border-primary" style="width: 200px; height: 30px;" id="inputPhone" placeholder=""></td>
+                    </tr>
+                    <tr>
+                        <td><label for="inputPhone" class="form-label">Model No</label></td>
+                        <td><input type="tel" class="form-control border-primary" style="width: 200px; height: 30px;" id="inputPhone" placeholder=""></td>
+                      </tr>
+                      <tr>
+                        <td><label for="inputPhone" class="form-label">Serial No</label></td>
+                        <td><input type="tel" class="form-control border-primary" style="width: 200px; height: 30px;" id="inputPhone" placeholder=""></td>
+                      </tr>
+                    <tr>
+                        <label for="dropdownInput" class="form-label">Condition</label>
+                        <select class="form-select border-primary" style="width: 200px; height: 35px;" id="dropdownInput">
+                        <option selected disabled>Select an option</option>
+                        <option value="1">Option 1</option>
+                        <option value="2">Option 2</option>
+                        <option value="3">Option 3</option>
+                        </select>
+                    </tr>
+                    <tr>
+                        <label for="dropdownInput" class="form-label">Period</label>
+                        <select class="form-select border-primary" style="width: 200px; height: 35px;" id="dropdownInput">
+                        <option selected disabled>Select an option</option>
+                        <option value="1">Option 1</option>
+                        <option value="2">Option 2</option>
+                        <option value="3">Option 3</option>
+                        </select>
+                    </tr>
+                  </tbody>
+            </div>
+            
+            <div class="col-4 box">
+                <tbody>
+                    <tr>
+                      <td><label for="inputName" class="form-label">Installation Date</label></td>
+                      <td><input type="date" class="form-control border-primary" style="width: 200px; height: 35px;" id="datePicker"></td>
+                    </tr>
+                    <tr>
+                        <label for="dropdownInput" class="form-label">Brand Name</label>
+                        <select class="form-select border-primary" style="width: 200px; height: 35px;" id="dropdownInput">
+                        <option selected disabled>Select an option</option>
+                        <option value="1">Option 1</option>
+                        <option value="2">Option 2</option>
+                        <option value="3">Option 3</option>
+                        </select>
+                    </tr>
+                    <tr>
+                        <label for="dropdownInput" class="form-label">Engineer</label>
+                        <select class="form-select border-primary" style="width: 200px; height: 35px;" id="dropdownInput">
+                        <option selected disabled>Select an option</option>
+                        <option value="1">Option 1</option>
+                        <option value="2">Option 2</option>
+                        <option value="3">Option 3</option>
+                        </select>
+                    </tr>
+                  </tbody>
+            </div>
+
+
+
+        <div class="row m-3">
+            <div class="col-6 box">
+                
+            </div>
+
+            <div class="col-6 box">
+                <tbody>
+                    <tr>
+                      <td><label for="inputName" class="form-label">Maintenance Schedule</label></td>
+                      <td><input type="text" class="form-control p-0 m-0 border-primary" style="width: 500px; height: 70px;" id="inputName" placeholder="(Options to be shown based on different brands and as per maintenance schedule)"></td>
+                    </tr>
+                    <tr>
+                      <td><label for="inputEmail" class="form-label">Service No</label></td>
+                      <td><input type="email" class="form-control border-primary" style="width: 200px; height: 30px;" id="inputEmail" placeholder=""></td>
+                    </tr>
+                  </tbody>
+            </div>
+        </div>
+
+
+
+        <div class="row m-3">
+            <div class="col-12 box">
+                <tbody>
+                    <tr>
+                      <td><label for="inputName" class="form-label">Job Details</label></td>
+                      <td><input type="text" class="form-control border-primary" style="width: 1000px; height: 70px;" id="inputName" placeholder=""></td>
+                    </tr>
+                    <tr>
+                      <td><label for="inputEmail" class="form-label">Remarks</label></td>
+                      <td><input type="email" class="form-control border-primary" style="width: 1000px; height: 30px;" id="inputEmail" placeholder=""></td>
+                    </tr>
+                  </tbody>
+            </div>   
+        </div>
+
+    </div>
+
+    
+  </div>
+
+@code {
+
+}
