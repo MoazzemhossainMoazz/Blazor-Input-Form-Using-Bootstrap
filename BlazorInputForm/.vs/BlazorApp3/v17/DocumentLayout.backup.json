@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|d:\\technoart\\my work\\blazor\\projects\\inputform\\blazorinputform\\blazorapp3\\components\\pages\\eirbsfinal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\components\\pages\\eirbsfinal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|d:\\technoart\\my work\\blazor\\projects\\inputform\\blazorinputform\\blazorapp3\\components\\pages\\taserbis1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\components\\pages\\taserbis1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|d:\\technoart\\my work\\blazor\\projects\\inputform\\blazorinputform\\blazorapp3\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|d:\\technoart\\my work\\blazor\\projects\\inputform\\blazorinputform\\blazorapp3\\components\\pages\\erbis.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\components\\pages\\erbis.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|d:\\technoart\\my work\\blazor\\projects\\inputform\\blazorinputform\\blazorapp3\\components\\pages\\sampleform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\components\\pages\\sampleform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|d:\\technoart\\my work\\blazor\\projects\\inputform\\blazorinputform\\blazorapp3\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|d:\\technoart\\my work\\blazor\\projects\\inputform\\blazorinputform\\blazorapp3\\components\\pages\\erbis.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\components\\pages\\erbis.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|d:\\technoart\\my work\\blazor\\projects\\inputform\\blazorinputform\\blazorapp3\\components\\pages\\respform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\components\\pages\\respform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|d:\\technoart\\my work\\blazor\\projects\\inputform\\blazorinputform\\blazorapp3\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{872256F9-9F63-4480-8B3A-72C1788C89CA}|BlazorApp3\\BlazorApp3.csproj|d:\\technoart\\my work\\blazor\\projects\\inputform\\blazorinputform\\blazorapp3\\components\\pages\\inputform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -59,19 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EIRBSFinal.razor",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\Components\\Pages\\EIRBSFinal.razor",
-              "RelativeDocumentMoniker": "BlazorApp3\\Components\\Pages\\EIRBSFinal.razor",
-              "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\Components\\Pages\\EIRBSFinal.razor",
-              "RelativeToolTip": "BlazorApp3\\Components\\Pages\\EIRBSFinal.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Title": "TASERBIS1.razor",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\Components\\Pages\\TASERBIS1.razor",
+              "RelativeDocumentMoniker": "BlazorApp3\\Components\\Pages\\TASERBIS1.razor",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\Components\\Pages\\TASERBIS1.razor",
+              "RelativeToolTip": "BlazorApp3\\Components\\Pages\\TASERBIS1.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T08:17:07.654Z",
+              "WhenOpened": "2025-01-28T10:31:47.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ERBIS.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\Components\\Pages\\ERBIS.razor",
               "RelativeDocumentMoniker": "BlazorApp3\\Components\\Pages\\ERBIS.razor",
@@ -79,44 +71,21 @@
               "RelativeToolTip": "BlazorApp3\\Components\\Pages\\ERBIS.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-26T13:53:41.982Z",
+              "WhenOpened": "2025-01-27T06:56:55.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\Components\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "BlazorApp3\\Components\\Pages\\Weather.razor",
-              "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\Components\\Pages\\Weather.razor",
-              "RelativeToolTip": "BlazorApp3\\Components\\Pages\\Weather.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-26T13:42:04.51Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Home.razor",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "BlazorApp3\\Components\\Pages\\Home.razor",
-              "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "BlazorApp3\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-26T13:41:58.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "SampleForm.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\Components\\Pages\\SampleForm.razor",
               "RelativeDocumentMoniker": "BlazorApp3\\Components\\Pages\\SampleForm.razor",
               "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\Components\\Pages\\SampleForm.razor",
               "RelativeToolTip": "BlazorApp3\\Components\\Pages\\SampleForm.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-25T13:45:45.216Z"
+              "WhenOpened": "2025-01-25T13:45:45.216Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -126,26 +95,26 @@
               "RelativeDocumentMoniker": "BlazorApp3\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "BlazorApp3\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-25T13:19:28.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "RespForm.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\Components\\Pages\\RespForm.razor",
               "RelativeDocumentMoniker": "BlazorApp3\\Components\\Pages\\RespForm.razor",
               "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\Components\\Pages\\RespForm.razor",
               "RelativeToolTip": "BlazorApp3\\Components\\Pages\\RespForm.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-25T13:14:41.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "InputForm.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\Components\\Pages\\InputForm.razor",
               "RelativeDocumentMoniker": "BlazorApp3\\Components\\Pages\\InputForm.razor",
