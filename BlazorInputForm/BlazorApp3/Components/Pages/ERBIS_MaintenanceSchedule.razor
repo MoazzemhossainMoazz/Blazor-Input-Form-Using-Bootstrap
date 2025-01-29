@@ -1,0 +1,132 @@
+﻿@page "/ERBIS_MaintenanceSchedule"
+@rendermode InteractiveServer
+
+<style>
+    .header {
+      background-color: #1160a3; /* Your selected background color */
+      color: white; /* Your selected text color */
+      padding: 10px; /* Optional: Add padding */
+      border-radius: 5px; /* Optional: Rounded corners */
+    }
+    .custom-container{
+      background-color: #FAF9F6; /* Your selected background color */
+      color: black; /* Your selected text color */
+      padding: 10px; /* Optional: Add padding */
+      border-radius: 5px; /* Optional: Rounded corners */
+    }
+    .box {
+      border: 2px solid none;
+    }
+    .input-box {
+      width: 300px;
+      height: 20px;
+    }
+</style>
+
+
+<div class="container-fluid custom-container">
+
+    <div class="row g-3 my-3">
+
+        <div class="col-1 box"></div>
+
+        <div class="col-10 header box">
+            <h2>Maintenance Schedule</h2>
+        </div>
+
+        <div class="col-1 box"></div>
+    </div>
+
+
+
+    <!------------------------------------- 1nd Row Start------------------------------------------------->
+    <div class="row g-3 my-2">
+
+
+        <div class="col-1 box"></div> <!------------ 1st Row,  1st Column----------------->
+        <!--------------------------------- 1st Row,  2nd Column Start---------------------------------------->
+        <div class="col-sm-5 box">
+
+            <div class="row mb-2">
+                <label for="inputEmail3" class="col-sm-4 col-form-label">Job Order No </label>
+                <div class="col-sm-8">
+                    <input type="email" class="form-control border-primary" id="inputEmail3">
+                </div>
+            </div>
+
+            <div class="row mb-2">
+                <label for="inputEmail3" class="col-sm-4 col-form-label">Item Name </label>
+                <div class="col-sm-8">
+                    <input type="email" class="form-control border-primary" id="inputEmail3">
+                </div>
+            </div>
+
+            <div class="row mb-2">
+                <label for="inputEmail3" class="col-sm-4 col-form-label">Model No </label>
+                <div class="col-sm-8">
+                    <input type="email" class="form-control border-primary" id="inputEmail3">
+                </div>
+            </div>
+
+            <div class="row mb-2">
+                <label for="inputEmail3" class="col-sm-4 col-form-label">Maintenance By  </label>
+                <div class="col-sm-8">
+                    <input type="email" class="form-control border-primary" id="inputEmail3">
+                </div>
+            </div>
+
+            <div class="row mb-2">
+                <label for="inputEmail3" class="col-sm-4 col-form-label">Referred By  </label>
+                <div class="col-sm-8">
+                    <input type="email" class="form-control border-primary" id="inputEmail3">
+                </div>
+            </div>
+
+            <div class="row mb-2">
+                <label for="inputEmail3" class="col-sm-4 col-form-label">Maintenance location   </label>
+                <div class="col-sm-8">
+                    <input type="email" class="form-control border-primary" id="inputEmail3">
+                </div>
+            </div>
+
+            <!--------------------------------- 1st Row,  2nd Column End---------------------------------------->
+        </div>
+
+        <div class="col-1 box"></div> <!--------------------- 1st Row,  3rd Column--------------------->
+        <!--------------------------------- 1st Row,  4th Column Start---------------------------------------->
+        <div class="col-sm-4 box">
+
+            <div class="row mb-5">
+                <label for="inputEmail3" class="col-sm-5 col-form-label">Maintenance Date </label>
+                <div class="col-sm-7">
+                    <input type="date" class="form-control border-primary mb-2" id="inputEmail3" style="">
+                </div>
+            </div>
+
+
+            <!-------------------------- 1std Row,  3rd Column End----------------------------------->
+        </div>
+
+        <div class="col-1 box"></div><!--------------------- 1st Row,  3rd Column--------------------->
+        <!--------------------------------- 1st Row 4th column End-------------------------------------->
+    </div>
+
+
+    <!--------------------------------- 1st Row 2nd column start---------------------------------------->
+    <div class="row g-3 my-3">
+
+        <div class="col-1 box"></div>
+        <div class="col-10 box">
+            <textarea class="form-control border-primary" id="maintenanceSchedule" rows="6" placeholder=""></textarea>
+        </div>
+
+        <div class="col-1 box"></div>
+    </div>
+    <!--------------------------------- 1st Row 2nd column End---------------------------------------->
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+
+@code {
+
+}
