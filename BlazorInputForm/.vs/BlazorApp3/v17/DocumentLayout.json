@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "BlazorApp3\\Components\\Pages\\ERBIS_CustomerInf.razor",
               "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorInputForm\\BlazorApp3\\Components\\Pages\\ERBIS_CustomerInf.razor",
               "RelativeToolTip": "BlazorApp3\\Components\\Pages\\ERBIS_CustomerInf.razor",
-              "ViewState": "AgIAAK8AAAAAAAAAAAAgwL4AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-29T18:40:47.748Z",
               "EditorCaption": ""
@@ -83,8 +83,7 @@
               "RelativeToolTip": "BlazorApp3\\Components\\Pages\\ERBIS_MaintenanceSchedule.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T17:42:31.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T17:42:31.743Z"
             },
             {
               "$type": "Document",
@@ -132,8 +131,7 @@
               "RelativeToolTip": "BlazorApp3\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAE0AAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-25T13:19:28.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T13:19:28.382Z"
             },
             {
               "$type": "Document",
