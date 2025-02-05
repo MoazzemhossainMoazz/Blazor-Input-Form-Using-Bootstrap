@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorProjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF96371D-D0FF-47C1-8446-ACF871D1AF2D}|SetupOwnMenubarBootstrap\\SetupOwnMenubarBootstrap.csproj|d:\\technoart\\my work\\blazor\\projects\\inputform\\blazorprojects\\setupownmenubarbootstrap\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EF96371D-D0FF-47C1-8446-ACF871D1AF2D}|SetupOwnMenubarBootstrap\\SetupOwnMenubarBootstrap.csproj|solutionrelative:setupownmenubarbootstrap\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF96371D-D0FF-47C1-8446-ACF871D1AF2D}|SetupOwnMenubarBootstrap\\SetupOwnMenubarBootstrap.csproj|d:\\technoart\\my work\\blazor\\projects\\inputform\\blazorprojects\\setupownmenubarbootstrap\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EF96371D-D0FF-47C1-8446-ACF871D1AF2D}|SetupOwnMenubarBootstrap\\SetupOwnMenubarBootstrap.csproj|solutionrelative:setupownmenubarbootstrap\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF96371D-D0FF-47C1-8446-ACF871D1AF2D}|SetupOwnMenubarBootstrap\\SetupOwnMenubarBootstrap.csproj|d:\\technoart\\my work\\blazor\\projects\\inputform\\blazorprojects\\setupownmenubarbootstrap\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EF96371D-D0FF-47C1-8446-ACF871D1AF2D}|SetupOwnMenubarBootstrap\\SetupOwnMenubarBootstrap.csproj|solutionrelative:setupownmenubarbootstrap\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF96371D-D0FF-47C1-8446-ACF871D1AF2D}|SetupOwnMenubarBootstrap\\SetupOwnMenubarBootstrap.csproj|d:\\technoart\\my work\\blazor\\projects\\inputform\\blazorprojects\\setupownmenubarbootstrap\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EF96371D-D0FF-47C1-8446-ACF871D1AF2D}|SetupOwnMenubarBootstrap\\SetupOwnMenubarBootstrap.csproj|solutionrelative:setupownmenubarbootstrap\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5496E181-C4B2-4D96-A651-40EBF7748D72}|SetupOwnMenubar\\SetupOwnMenubar.csproj|d:\\technoart\\my work\\blazor\\projects\\inputform\\blazorprojects\\setupownmenubar\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,20 +90,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "app.css",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorProjects\\SetupOwnMenubarBootstrap\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "SetupOwnMenubarBootstrap\\wwwroot\\app.css",
               "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorProjects\\SetupOwnMenubarBootstrap\\wwwroot\\app.css",
               "RelativeToolTip": "SetupOwnMenubarBootstrap\\wwwroot\\app.css",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-05T05:15:10.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T05:15:10.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorProjects\\SetupOwnMenubarBootstrap\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "SetupOwnMenubarBootstrap\\Components\\Layout\\MainLayout.razor",
@@ -116,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorProjects\\SetupOwnMenubarBootstrap\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "SetupOwnMenubarBootstrap\\Components\\Layout\\NavMenu.razor",
@@ -124,8 +123,7 @@
               "RelativeToolTip": "SetupOwnMenubarBootstrap\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T05:14:13.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T05:14:13.433Z"
             },
             {
               "$type": "Document",
@@ -161,8 +159,7 @@
               "RelativeToolTip": "SetupOwnMenubar\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T13:48:51.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T13:48:51.288Z"
             },
             {
               "$type": "Document",
