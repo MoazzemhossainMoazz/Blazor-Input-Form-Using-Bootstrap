@@ -1,0 +1,22 @@
+﻿@* Shared/NavMenu.razor *@
+<nav class="sidebar">
+    <NavLink href="/" class="nav-link" active-class="active">🏠 Home</NavLink>
+
+    <!-- About Section with Submenu -->
+    <a href="#" data-bs-toggle="collapse" data-bs-target="#aboutMenu">📄 About ▾</a>
+    <div class="collapse submenu" id="aboutMenu">
+        <NavLink href="/our-team" class="nav-link">Our Team</NavLink>
+        <NavLink href="/our-history" class="nav-link">Our History</NavLink>
+        <NavLink href="/our-mission" class="nav-link">Our Mission</NavLink>
+    </div>
+
+    <!-- Services Section with Submenu -->
+    <a href="#" data-bs-toggle="collapse" data-bs-target="#servicesMenu">🛠 Services ▾</a>
+    <div class="collapse submenu" id="servicesMenu">
+        <NavLink href="/web-development" class="nav-link">Web Development</NavLink>
+        <NavLink href="/app-development" class="nav-link">App Development</NavLink>
+        <NavLink href="/seo" class="nav-link">SEO Services</NavLink>
+    </div>
+
+    <NavLink href="/contact" class="nav-link" active-class="active">📞 Contact</NavLink>
+</nav>
