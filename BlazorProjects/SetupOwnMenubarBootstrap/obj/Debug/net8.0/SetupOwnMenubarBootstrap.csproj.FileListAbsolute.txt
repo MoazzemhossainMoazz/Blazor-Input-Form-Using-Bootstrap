@@ -28,3 +28,7 @@ D:\TechnoArt\My Work\Blazor\Projects\InputForm\BlazorProjects\SetupOwnMenubarBoo
 D:\TechnoArt\My Work\Blazor\Projects\InputForm\BlazorProjects\SetupOwnMenubarBootstrap\obj\Debug\net8.0\SetupOwnMenubarBootstrap.pdb
 D:\TechnoArt\My Work\Blazor\Projects\InputForm\BlazorProjects\SetupOwnMenubarBootstrap\obj\Debug\net8.0\SetupOwnMenubarBootstrap.genruntimeconfig.cache
 D:\TechnoArt\My Work\Blazor\Projects\InputForm\BlazorProjects\SetupOwnMenubarBootstrap\obj\Debug\net8.0\ref\SetupOwnMenubarBootstrap.dll
+D:\TechnoArt\My Work\Blazor\Projects\InputForm\BlazorProjects\SetupOwnMenubarBootstrap\bin\Debug\net8.0\SetupOwnMenubarBootstrap.staticwebassets.endpoints.json
+D:\TechnoArt\My Work\Blazor\Projects\InputForm\BlazorProjects\SetupOwnMenubarBootstrap\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\TechnoArt\My Work\Blazor\Projects\InputForm\BlazorProjects\SetupOwnMenubarBootstrap\obj\Debug\net8.0\staticwebassets\msbuild.SetupOwnMenubarBootstrap.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\TechnoArt\My Work\Blazor\Projects\InputForm\BlazorProjects\SetupOwnMenubarBootstrap\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

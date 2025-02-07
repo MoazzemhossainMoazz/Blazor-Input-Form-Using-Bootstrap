@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorProjects\\SetupOwnMenubarBootstrap\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SetupOwnMenubarBootstrap.bundle.scp.css",
-      "PackagePath": "staticwebassets\\SetupOwnMenubarBootstrap.bundle.scp.css"
+      "PackagePath": "staticwebassets\\SetupOwnMenubarBootstrap.wxgzy6lqd5.bundle.scp.css"
     },
     {
       "Id": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorProjects\\SetupOwnMenubarBootstrap\\wwwroot\\app.css",
@@ -19,6 +19,10 @@
     {
       "Id": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorProjects\\SetupOwnMenubarBootstrap\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SetupOwnMenubarBootstrap.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SetupOwnMenubarBootstrap.Microsoft.AspNetCore.StaticWebAssets.props",

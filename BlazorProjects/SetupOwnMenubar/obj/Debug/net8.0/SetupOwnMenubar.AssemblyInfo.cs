@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SetupOwnMenubar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b1eed1b846dfee6b05fe24d85dc19d0d5a332a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+616d5e9ceb637dc8985fc3257cf696ecb7e8a2e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SetupOwnMenubar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SetupOwnMenubar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
