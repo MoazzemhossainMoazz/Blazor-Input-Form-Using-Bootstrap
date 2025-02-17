@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SetupOwnMenubarBootstrap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f39fc559127011dcbc7751e824e7c59e3d5c2cdd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88bc005fd717455c5feceb42e48a415bf03c858e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SetupOwnMenubarBootstrap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SetupOwnMenubarBootstrap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
