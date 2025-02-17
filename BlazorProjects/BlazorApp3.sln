@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetupOwnMenubar", "SetupOwn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetupOwnMenubarBootstrap", "SetupOwnMenubarBootstrap\SetupOwnMenubarBootstrap.csproj", "{EF96371D-D0FF-47C1-8446-ACF871D1AF2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAppUsingRadzen", "BlazorWebAppUsingRadzen\BlazorWebAppUsingRadzen.csproj", "{91B8E176-2E1C-4145-962F-DC7F8BC63661}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EF96371D-D0FF-47C1-8446-ACF871D1AF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF96371D-D0FF-47C1-8446-ACF871D1AF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF96371D-D0FF-47C1-8446-ACF871D1AF2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91B8E176-2E1C-4145-962F-DC7F8BC63661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B8E176-2E1C-4145-962F-DC7F8BC63661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B8E176-2E1C-4145-962F-DC7F8BC63661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B8E176-2E1C-4145-962F-DC7F8BC63661}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

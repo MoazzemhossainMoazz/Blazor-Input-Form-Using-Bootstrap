@@ -1,0 +1,39 @@
+﻿@page "/counter"
+@rendermode InteractiveServer
+
+<RadzenDataGrid AllowFiltering="true" AllowColumnResize="true" AllowAlternatingRows="false" FilterMode="FilterMode.Advanced" AllowSorting="true" PageSize="5" AllowPaging="true" PagerHorizontalAlign="HorizontalAlign.Left" ShowPagingSummary="true"
+    Data="" ColumnWidth="300px" LogicalFilterOperator="LogicalFilterOperator.Or" SelectionMode="DataGridSelectionMode.Single">
+    <Columns>
+        <RadzenDataGridColumn Property="" Filterable="false" Title="ID" Frozen="true" Width="80px" TextAlign="TextAlign.Center" />
+        <RadzenDataGridColumn Title="Photo" Frozen="true" Sortable="false" Filterable="false" Width="80px" TextAlign="TextAlign.Center" >
+            <Template Context="data">
+                <RadzenImage Path="" class="rz-gravatar" AlternateText="" />
+            </Template>
+        </RadzenDataGridColumn>
+        <RadzenDataGridColumn Property="" Title="First Name" Frozen="true" Width="160px" />
+        <RadzenDataGridColumn Property=""Last Name" Width="160px"/>
+        <RadzenDataGridColumn Property=""Job Title" Width="200px" />
+        <RadzenDataGridColumn Property="" Title="Title" Width="120px" />
+        <RadzenDataGridColumn Property="="Birth Date" FormatString="{0:d}" Width="160px" />
+        <RadzenDataGridColumn Property="" Title="Hire Date" FormatString="{0:d}" Width="160px" />
+        <RadzenDataGridColumn Property="" Title="Address" Width="200px" />
+        <RadzenDataGridColumn Property="" Title="City" Width="160px" />
+        <RadzenDataGridColumn Property="" Title="Region" Width="160px" />
+        <RadzenDataGridColumn Property="" Title="Postal Code" Width="160px" />
+@*         <RadzenDataGridColumn Property="@nameof(Employee.Country)" Title="Country" Width="160px" />
+        <RadzenDataGridColumn Property="@nameof(Employee.HomePhone)" Title="Home Phone" Width="160px" />
+        <RadzenDataGridColumn Property="@nameof(Employee.Extension)" Title="Extension" Width="160px" />
+        <RadzenDataGridColumn Property="@nameof(Employee.Notes)" Title="Notes" Width="300px" /> *@
+    </Columns>
+</RadzenDataGrid>
+
+@code {
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        await base.OnInitializedAsync();
+ 
+       
+    }
+}

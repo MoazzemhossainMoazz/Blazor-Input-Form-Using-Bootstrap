@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RadZen_UI.props" />
+</Project>

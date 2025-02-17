@@ -1,0 +1,7 @@
+D:\TechnoArt\My Work\Blazor\Projects\InputForm\BlazorProjects\BlazorApp3\wwwroot\bootstrap\bootstrap.min.css
+D:\TechnoArt\My Work\Blazor\Projects\InputForm\BlazorProjects\BlazorApp3\wwwroot\bootstrap\bootstrap.min.css.map
+D:\TechnoArt\My Work\Blazor\Projects\InputForm\BlazorProjects\BlazorApp3\wwwroot\app.css
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png
