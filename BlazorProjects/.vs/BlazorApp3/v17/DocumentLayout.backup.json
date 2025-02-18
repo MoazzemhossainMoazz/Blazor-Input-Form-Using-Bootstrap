@@ -126,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -141,6 +141,10 @@
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "EIRBSFinal.razor",
@@ -150,8 +154,7 @@
               "RelativeToolTip": "BlazorApp3\\Components\\Pages\\EIRBSFinal.razor",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T12:56:27.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T12:56:27.024Z"
             },
             {
               "$type": "Document",
@@ -219,16 +222,12 @@
               "Title": "ERBIS_4.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorProjects\\BlazorApp3\\Components\\Pages\\ERBIS_4.razor",
               "RelativeDocumentMoniker": "BlazorApp3\\Components\\Pages\\ERBIS_4.razor",
-              "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorProjects\\BlazorApp3\\Components\\Pages\\ERBIS_4.razor*",
-              "RelativeToolTip": "BlazorApp3\\Components\\Pages\\ERBIS_4.razor*",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAADcAAAArAAAAAAAAAA==",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Projects\\InputForm\\BlazorProjects\\BlazorApp3\\Components\\Pages\\ERBIS_4.razor",
+              "RelativeToolTip": "BlazorApp3\\Components\\Pages\\ERBIS_4.razor",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-03T10:04:53.776Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -240,8 +239,7 @@
               "RelativeToolTip": "BlazorApp3\\Components\\Pages\\DesingUsingRadZen.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T06:39:09.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T06:39:09.786Z"
             },
             {
               "$type": "Document",
